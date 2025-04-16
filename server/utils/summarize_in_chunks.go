@@ -1,4 +1,3 @@
-// utils/prompt_processor.go
 package utils
 
 import (
@@ -24,19 +23,6 @@ func chunkText(text string, size int) []string {
 	}
 	return chunks
 }
-/* 
-Initial prompt
-- [If no market trends -> Tell users]
-- trend analysis
-- summarize docs
-- which docs the trends come from
-
-Following-up questions
-
-Nice to have:
-Recognizing if a docs is related to market trends or not
-
-*/
 
 func RunAutoAnalysis(text, apiKey string) (string, string, error) {
 	chunks := chunkText(text, chunkSize)

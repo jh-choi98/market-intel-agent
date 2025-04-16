@@ -68,7 +68,6 @@ func UploadHandler(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 
-		// 기본 프롬프트를 요약으로 설정
 		summary, err := utils.ProcessTextWithPrompt(text, "요약해줘", apiKey)
 		if err != nil {
 			http.Error(w, "[Error] processing text", http.StatusInternalServerError)
