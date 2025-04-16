@@ -10,25 +10,25 @@ It’s designed to streamline research workflows — especially in financial or 
 
 ### 1. Landing Page – File Upload Interface
 
-![Upload Page](./assets/image.png)
+![Upload Page](./assets/Image.png)
 
 ---
 
 ### 2. After Upload – Summary and Market Trend Analysis
 
-![Summary Output](./assets/image2.png)
+![Summary Output](./assets/Image2.png)
 
 ---
 
 ### 3. Follow-up Question – Chat with Your Documents
 
-![Follow-up Chat](./assets/image3.png)
+![Follow-up Chat](./assets/Image3.png)
 
 ---
 
 ### 4. No Market Trend Found – Fallback Handling
 
-![No Trends](./assets/image4.png)
+![No Trends](./assets/Image4.png)
 
 ---
 
