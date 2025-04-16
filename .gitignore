@@ -33,3 +33,7 @@ client/.idea/
 *.njsproj
 *.sln
 *.sw?
+
+
+## Root
+assets/
