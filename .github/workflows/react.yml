@@ -1,17 +1,18 @@
 name: React CI
 
-# on:
-#   push:
-#     paths:
-#       - "client/**"
-#   pull_request:
-#     paths:
-#       - "client/**"
 on:
   push:
-    branches: [master]
+    paths:
+      - "client/**"
   pull_request:
-    branches: [master]
+    paths:
+      - "client/**"
+
+# on:
+#   push:
+#     branches: [master]
+#   pull_request:
+#     branches: [master]
 
 jobs:
   build:
