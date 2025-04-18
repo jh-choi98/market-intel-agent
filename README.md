@@ -39,7 +39,7 @@ It’s designed to streamline research workflows — especially in financial or 
 
 - Upload multiple files at once (PDF, CSV, TXT, PNG, JPG)
 - AI-powered summarization and Q&A via OpenAI GPT-3.5
-- Drag-and-drop interface (React + Tailwind)
+- Drag-and-drop interface (React + Tailwind CSS)
 - OCR support for image-based documents using Tesseract
 - Local-first: only extracted text is sent to OpenAI (not full documents)
 - Custom prompt generation for each query
