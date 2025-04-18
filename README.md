@@ -1,5 +1,8 @@
 # Market Intel Agent
 
+![Go CI](https://github.com/jh-choi98/market-intel-agent/actions/workflows/go.yml/badge.svg)
+![React CI](https://github.com/jh-choi98/market-intel-agent/actions/workflows/react.yml/badge.svg)
+
 **Market Intel Agent** is a full-stack AI tool that allows users to upload multiple documents (PDF, CSV, TXT, PNG, JPG) and instantly extract summaries and insights using natural language.
 
 It’s designed to streamline research workflows — especially in financial or strategic analysis — by enabling users to “chat with their documents” instead of reading them line-by-line.
