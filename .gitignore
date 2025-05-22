@@ -34,3 +34,4 @@ client/.idea/
 *.sln
 *.sw?
 
+.vscode
